@@ -1,0 +1,23 @@
+spring:
+  datasource:
+    url: jdbc:mysql://127.0.0.1/Bank?useUnicode=true&characterEncoding=UTF-8
+    username: root
+    password: 101211
+  jpa:
+    show-sql: true
+    database: mysql
+    hibernate:
+      ddl-auto: update
+    database-platform: org.hibernate.dialect.MySQL5InnoDBDialect  #不加这句则默认为myisam引擎
+
+
+#---
+#
+#spring:
+#  profiles: testing
+#  datasource:
+#    url: jdbc:h2:mem:AZ;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=FALSE
+#    username: sa
+#  jpa:
+#    show-sql: true
+#    database: h2
