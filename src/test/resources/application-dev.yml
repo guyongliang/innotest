@@ -1,0 +1,15 @@
+spring:
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: none
+  datasource:
+    operate:
+      url: ${epic.transaction.ds.url:jdbc:mysql://192.168.8.103/epic_transaction_rc?useUnicode=true&characterEncoding=UTF-8}
+      username: ${epic.transaction.ds.username:public}
+      password: ${epic.transaction.ds.password:public}
+logging:
+  level:
+    root: info
+    org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping: INFO
+    org.hibernate.type.descriptor.sql.BasicBinder: TRACE
