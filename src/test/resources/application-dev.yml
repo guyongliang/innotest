@@ -1,15 +1,11 @@
 spring:
+  datasource:
+    url: jdbc:mysql://127.0.0.1/Bank?useUnicode=true&characterEncoding=UTF-8
+    username: root
+    password: 101211
   jpa:
     show-sql: true
+    database: mysql
     hibernate:
-      ddl-auto: none
-  datasource:
-    operate:
-      url: ${epic.transaction.ds.url:jdbc:mysql://192.168.8.103/epic_transaction_rc?useUnicode=true&characterEncoding=UTF-8}
-      username: ${epic.transaction.ds.username:public}
-      password: ${epic.transaction.ds.password:public}
-logging:
-  level:
-    root: info
-    org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping: INFO
-    org.hibernate.type.descriptor.sql.BasicBinder: TRACE
+      ddl-auto: update
+    database-platform: org.hibernate.dialect.MySQL5InnoDBDialect  #不加这句则默认为myisam引擎

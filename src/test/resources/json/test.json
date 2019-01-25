@@ -1,0 +1,1795 @@
+{
+  "id": "1845",
+  "account": "18698661836",
+  "phone": "18698661836",
+  "email": null,
+  "realName": "张业振RC",
+  "displayName": "瓢虫RC",
+  "unit": "自制模式",
+  "avatar": null,
+  "state": "NORMAL",
+  "createdAt": 1459848131000,
+  "permissions": [
+    {
+      "id": "3F9E6E85-4CD2-4704-AF1E-9EA6366C5DBC",
+      "businessKey": "*",
+      "name": "AUTHENTICATION_GASSTASTION.LOOKUP",
+      "description": "H5&油小二.认证加油站",
+      "createdAt": 1477975867000
+    },
+    {
+      "id": "5E4D787B-DBE5-4818-B27F-9630718003DC",
+      "businessKey": "*",
+      "name": "UXIAOR_ADMIN.SUBMENU.CUSTOMER.INVALIDLIST",
+      "description": "成员管理后台.客户管理.无效客户",
+      "createdAt": 1532938426000
+    },
+    {
+      "id": "69C20EBD-FFF7-477C-8F5D-DF81B2D5DF47",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.DAILY_REPORT",
+      "description": "成员管理后台.业务管理.每日销量",
+      "createdAt": 1516095480000
+    },
+    {
+      "id": "702E926C-C6D7-4D0E-9397-EA14B0E67B5E",
+      "businessKey": "*",
+      "name": "UXIAOR_ADMIN.SUBMENU.CUSTOMER.SEALIST",
+      "description": "成员管理后台.客户管理.公海客户",
+      "createdAt": 1478743228000
+    },
+    {
+      "id": "7C3B35D1-97F7-4916-8F40-703BCA80734C",
+      "businessKey": "*",
+      "name": "UXIAOR_ADMIN.SUBMENU.CUSTOMER.RELEASEDLIST",
+      "description": "成员管理后台.客户管理.释放客户",
+      "createdAt": 1532938459000
+    },
+    {
+      "id": "93E54B73-0490-4363-8759-7C0A5B46FCA9",
+      "businessKey": "*",
+      "name": "UXIAOR_ADMIN.MENU.CUSTOMER.MYSELF",
+      "description": "成员管理后台.客户管理.我的客户",
+      "createdAt": 1478744027000
+    },
+    {
+      "id": "9EE9AC81-F289-4F9D-B358-BC8E3C6A5804",
+      "businessKey": "*",
+      "name": "UXIAOR_ADMIN.MENU.CUSTOMER",
+      "description": "成员管理后台.客户管理",
+      "createdAt": 1478743069000
+    },
+    {
+      "id": "DB8955F8-6EBE-47FC-AE43-809DAD7E9156",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.MENU.BUSINESS",
+      "description": "成员管理后台.业务管理",
+      "createdAt": 1486639928000
+    },
+    {
+      "id": "F8A55215-6B02-4B61-A5A5-59C2C9F6A431",
+      "businessKey": "*",
+      "name": "POCKET.CRM_MANAGE",
+      "description": "爱油口袋.CRM管理",
+      "createdAt": 1478143644000
+    },
+    {
+      "id": "02EF1134-5036-4B73-A33A-70BBACEFE15B",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.MENU.ACCOUNT_MANAGE",
+      "description": "成员管理后台.账户管理",
+      "createdAt": 1495426192000
+    },
+    {
+      "id": "039771FD-BA85-4CBD-A47C-6FD3168A3D49",
+      "businessKey": "*",
+      "name": "UXIAOR_ADMIN.SUBMENU.EXAMINE",
+      "description": "成员管理后台.小二找车.物流审核",
+      "createdAt": 1525233026000
+    },
+    {
+      "id": "063D3B62-EE99-4C6D-B1E4-D395B2175EE2",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.NEW_ORDER_TRACKING",
+      "description": "成员管理后台.业务管理.新订单追踪",
+      "createdAt": 1541558341000
+    },
+    {
+      "id": "0A0C21A6-C3A6-48E6-9C0E-40C36F4B9A7B",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.NEW_ORDER",
+      "description": "成员管理后台.业务管理.新订单中心",
+      "createdAt": 1540190749000
+    },
+    {
+      "id": "0CC75391-5346-4044-BD25-B4C1DE4C41AF",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.NEW_SUPPLIER_ACCOUNT_CHECK",
+      "description": "成员管理后台.业务管理.新供应商对账管理",
+      "createdAt": 1543194959000
+    },
+    {
+      "id": "116843D8-20F0-4AB8-9A55-4AB625C69145",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.SUPPLIERACCOUNT",
+      "description": "成员管理后台.业务管理.供应商钱包管理",
+      "createdAt": 1510315596000
+    },
+    {
+      "id": "13BDB564-9CDF-430C-A159-31C110003537",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.MESSAGE_MANAGE.CHANNEL_LIST",
+      "description": "平台通知后台.消息管理.事件通道",
+      "createdAt": 1528267845000
+    },
+    {
+      "id": "1516DD51-0183-473D-9369-CEF83A56BC96",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.TRANSFER_LIST",
+      "description": "成员管理后台.业务管理.转账管理",
+      "createdAt": 1534920053000
+    },
+    {
+      "id": "1ABC99AE-54CA-4EA0-8D88-1CDC5993EE37",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.MENU.MEMBER",
+      "description": "成员管理后台.基础数据",
+      "createdAt": 1490235411000
+    },
+    {
+      "id": "1E5591B5-C1E2-481E-AF57-12C8E78F93C2",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.VEHICLE",
+      "description": "成员管理后台.系统管理.找车专员",
+      "createdAt": 1493690361000
+    },
+    {
+      "id": "1EA20BA3-F088-4B68-8272-7B6CF1FD089A",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.STATEMENT_LIST_NEW",
+      "description": "成员管理后台.财务管理.新结算管理",
+      "createdAt": 1540517391000
+    },
+    {
+      "id": "1EADA0E1-0C97-4285-BBD3-AE9B437832DF",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.FINANCE",
+      "description": "成员管理后台.业务管理.财务管理",
+      "createdAt": 1486640002000
+    },
+    {
+      "id": "2A94B8F3-65AE-4108-B87B-104F0AFC6668",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.ORDER",
+      "description": "成员管理后台.业务管理.订单中心",
+      "createdAt": 1486640053000
+    },
+    {
+      "id": "2D2D71C5-D0FA-47D8-9C0D-8A4F3294B63C",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.NEW_REBATE_LIST",
+      "description": "成员管理后台.业务管理.新返利结算",
+      "createdAt": 1543194855000
+    },
+    {
+      "id": "2E58FD22-4AF3-4B8F-9F71-4DA2EDD91206",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.TRANSFER_LIST",
+      "description": "成员管理后台.财务管理.新转账管理",
+      "createdAt": 1540980596000
+    },
+    {
+      "id": "2E908D97-2036-4D79-98B7-222036B5950F",
+      "businessKey": "*",
+      "name": "UXIAOR_ADMIN.SUBMENU.CUSTOMER.SEECUSTOMER",
+      "description": "成员管理后台.客户管理.公海使用记录",
+      "createdAt": 1478854062000
+    },
+    {
+      "id": "2EE27093-3F96-48BE-BE9B-E9ED5EDBF4D3",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.MENU.PRODUCT_MANAGE",
+      "description": "成员管理后台.商品管理",
+      "createdAt": 1519790556000
+    },
+    {
+      "id": "2FBA7BAC-B548-4FD4-9BF4-C85736FE8D4F",
+      "businessKey": "*",
+      "name": "UXIAOR_ADMIN.SUBMENU.OWNER.VEHICLE",
+      "description": "成员管理后台.小二找车.车主车辆管理",
+      "createdAt": 1533177998000
+    },
+    {
+      "id": "31221049-E092-4F52-A3A4-546E693C9ED4",
+      "businessKey": "*",
+      "name": "UXIAOR_ADMIN.SUBMENU.LOGISTICS.REPORT",
+      "description": "成员管理后台.小二找车.物流报表",
+      "createdAt": 1540861725000
+    },
+    {
+      "id": "339FD133-70A4-4D5B-A5DC-C563E07761EB",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.SUPPLIER_ACCOUNT_CHECK",
+      "description": "成员管理后台.业务管理.供应商对账管理",
+      "createdAt": 1541409003000
+    },
+    {
+      "id": "35312123-FE60-481D-9E39-47CB160BEB04",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.TRANSPORT",
+      "description": "成员管理后台.业务管理.物流管理",
+      "createdAt": 1486640174000
+    },
+    {
+      "id": "36726711-60E5-497E-99A5-ABBAE22DBF0C",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.PRODUCT_MANAGE.PRODUCT_TYPE",
+      "description": "成员管理后台.商品管理.商品类型管理",
+      "createdAt": 1519790592000
+    },
+    {
+      "id": "37BD64A5-4952-4396-9055-02EEADC7EB92",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.USER",
+      "description": "成员管理后台.系统管理.用户管理",
+      "createdAt": 1478230158000
+    },
+    {
+      "id": "3B343904-75D4-4BEF-94A0-A8432C998D2B",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.STATEMENT_LIST",
+      "description": "成员管理后台.业务管理.结算管理",
+      "createdAt": 1502949618000
+    },
+    {
+      "id": "3D7384FF-44B7-480E-B081-0D5B601D30EC",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.MENU.REFERENCE_MANAGE",
+      "description": "成员管理后台.小二内参",
+      "createdAt": 1504690249000
+    },
+    {
+      "id": "47C1C35F-9803-4201-89A7-B60D4AE325FB",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.RECEIVE_LIST",
+      "description": "成员管理后台.业务管理.对账管理",
+      "createdAt": 1517988103000
+    },
+    {
+      "id": "48C0698D-1DDF-48A0-9A51-02BC0C23F306",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.DOING",
+      "description": "成员管理后台.业务管理.订单跟踪",
+      "createdAt": 1490175496000
+    },
+    {
+      "id": "490AA826-C113-47D6-BB67-AD6BAA8A3AF4",
+      "businessKey": "*",
+      "name": "UXIAOR_ADMIN.SUBMENU.VEHICLE.TRUCK",
+      "description": "成员管理后台.小二找车.司机管理",
+      "createdAt": 1478742984000
+    },
+    {
+      "id": "497DE1D8-7E93-4772-BB99-358DA6B2BE89",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.EMPLOYEE",
+      "description": "成员管理后台.系统管理.员工管理",
+      "createdAt": 1478481732000
+    },
+    {
+      "id": "4D61ED2D-FBCB-4C05-91FF-8F2B1A946519",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.SIGN",
+      "description": "成员管理后台.业务管理.驻场管理",
+      "createdAt": 1512095190000
+    },
+    {
+      "id": "504103C8-95CF-4352-9DEB-1483C23E62F8",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.PRODUCT_MANAGE.CITY",
+      "description": "成员管理后台.商品管理.城市管理",
+      "createdAt": 1530596758000
+    },
+    {
+      "id": "520D0A87-8B0B-4202-8364-CB6BD49C2910",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.MESSAGE_MANAGE.TRIGGER_LIST",
+      "description": "平台通知后台.消息管理.触发器",
+      "createdAt": 1528274125000
+    },
+    {
+      "id": "52AB3797-739C-4ABC-9E25-E724F0B4C542",
+      "businessKey": "*",
+      "name": "UXIAOR_ADMIN.SUBMENU.CUSTOMER.LABEL",
+      "description": "成员管理后台.客户管理.审核管理",
+      "createdAt": 1478743212000
+    },
+    {
+      "id": "59B87BF0-4ECC-4558-AEDF-DFC9611F775E",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.SUPPLIER",
+      "description": "成员管理后台.基础数据.供应商",
+      "createdAt": 1490235091000
+    },
+    {
+      "id": "61BAA19C-7235-4D94-8F4E-7FF8D4607729",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.REFERENCE_MANAGE.MESSAGE_LIST",
+      "description": "成员管理后台.小二内参.内参信息列表",
+      "createdAt": 1504690283000
+    },
+    {
+      "id": "6951F6F7-8EAC-4776-A71C-4C6C702DAA92",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.ACCOUNT_MANAGE.ORDER_PAYEE",
+      "description": "成员管理后台.账户管理.订单(应收)",
+      "createdAt": 1495457528000
+    },
+    {
+      "id": "69FA2E9B-A4AD-41E6-9235-6833A9E03CF9",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.PRODUCT_MANAGE.REFINERY",
+      "description": "成员管理后台.商品管理.炼厂管理",
+      "createdAt": 1519790569000
+    },
+    {
+      "id": "6E0C9240-DB97-4F8B-926F-F8ED119AD59C",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.ACCOUNT_MANAGE.ACCOUNT",
+      "description": "成员管理后台.账户管理.我的账户",
+      "createdAt": 1495426203000
+    },
+    {
+      "id": "6E59D610-828D-428D-8DB0-384CC1BF4E5D",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.PRODUCT_MANAGE.DISCOUNT",
+      "description": "成员管理后台.商品管理.优惠管理",
+      "createdAt": 1519790631000
+    },
+    {
+      "id": "6E6353F2-C19A-4120-9917-EF0004FA8D92",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.ORDER_TRACKING",
+      "description": "成员管理后台.业务管理.订单追踪",
+      "createdAt": 1532050396000
+    },
+    {
+      "id": "6FD8FA53-4E38-4284-997F-A3FA23FD905A",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.SYSTEM_CONFIG",
+      "description": "成员管理后台.基础数据.系统配置",
+      "createdAt": 1490235273000
+    },
+    {
+      "id": "7105AC6C-38FA-4169-A714-2FEB5A56A9D4",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.REBATE_LIST",
+      "description": "成员管理后台.业务管理.返利结算",
+      "createdAt": 1540869867000
+    },
+    {
+      "id": "7281A8E8-AEC5-449A-980E-4F6CE82FEC68",
+      "businessKey": "*",
+      "name": "UXIAOR_ADMIN.MENU.VEHICLE",
+      "description": "成员管理后台.小二找车",
+      "createdAt": 1478742955000
+    },
+    {
+      "id": "7C4D04E8-A682-439A-ADFE-0B832A91AA8B",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.LOGISTIC",
+      "description": "成员管理后台.业务管理.物流钱包管理",
+      "createdAt": 1511761738000
+    },
+    {
+      "id": "81A7281F-56F5-4CD5-8508-79E2790BFAD3",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.LOG_MANAGE.DAU_DETAIL",
+      "description": "成员管理后台.日志管理.日活详情",
+      "createdAt": 1514184923000
+    },
+    {
+      "id": "833B9A63-F3F9-4C41-9AE1-C23150BA7C42",
+      "businessKey": "*",
+      "name": "UXIAOR_ADMIN.SUBMENU.COOPERATORLIST",
+      "description": "成员管理后台.小二找车.小二找车管理",
+      "createdAt": 1529048903000
+    },
+    {
+      "id": "83A1F0D8-0AE7-4022-9010-ECDB167C1418",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.FREIGHT_LIST",
+      "description": "成员管理后台.业务管理.运费结算",
+      "createdAt": 1538284192000
+    },
+    {
+      "id": "8792A25F-DEAD-44D4-AB2D-C84DF09CF4E5",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.CARD_MANAGE.COMPANY_LIST",
+      "description": "成员管理后台.小二加油站.公司列表",
+      "createdAt": 1496748813000
+    },
+    {
+      "id": "89C4E714-FBE3-4F6D-A8B4-F94936DAED4E",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.NEW_DAILY_REPORT",
+      "description": "成员管理后台.业务管理.新每日销量",
+      "createdAt": 1541562181000
+    },
+    {
+      "id": "8C879F87-525B-4556-AC40-031B33CC9955",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.LOGISTICS_BILL",
+      "description": "成员管理后台.业务管理.新物流账单",
+      "createdAt": 1541492848000
+    },
+    {
+      "id": "8CB8D650-5FCA-41DD-9FB0-373F15C8A2E7",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.REFERENCE_MANAGE.TOPIC_LIST",
+      "description": "成员管理后台.小二内参.内参主题列表",
+      "createdAt": 1504690267000
+    },
+    {
+      "id": "8CE42E9B-3AF7-4797-B34D-E942966315BE",
+      "businessKey": "*",
+      "name": "UXIAOR_ADMIN.SUBMENU.VEHICLE.EXAMINE",
+      "description": "成员管理后台.小二找车.车辆审核",
+      "createdAt": 1536024736000
+    },
+    {
+      "id": "8D798A02-553D-42E8-8462-5628EAD3B731",
+      "businessKey": "*",
+      "name": "UXIAOR_ADMIN.SUBMENU.VEHICLE.EXAMINE",
+      "description": "成员管理后台.小二找车.车辆审核",
+      "createdAt": 1534818796000
+    },
+    {
+      "id": "8E46C3C7-037A-4A5F-AB28-D4229A59D417",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.MENU.MESSAGE_MANAGE",
+      "description": "平台通知后台.消息管理",
+      "createdAt": 1528265380000
+    },
+    {
+      "id": "931036D2-4E13-4940-869F-F9A9841B0107",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.REFERENCE_MANAGE.SEND_LIST",
+      "description": "成员管理后台.小二内参.推送管理",
+      "createdAt": 1539333534000
+    },
+    {
+      "id": "9A1EA89D-6A9E-4E0E-B552-A9DC16811077",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.MENU.LOG_MANAGE",
+      "description": "成员管理后台.日志管理",
+      "createdAt": 1514184893000
+    },
+    {
+      "id": "A1362EA7-974D-40A1-9A36-671791650B25",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.ACCOUNT_MANAGE.ORDER",
+      "description": "成员管理后台.账户管理.订单(应付)",
+      "createdAt": 1495426216000
+    },
+    {
+      "id": "A5BAE3DE-C17D-4489-8657-C35394D0BC10",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.PRODUCT_MANAGE.WAREHOUSE",
+      "description": "成员管理后台.商品管理.仓库管理",
+      "createdAt": 1519790581000
+    },
+    {
+      "id": "A6478F7D-4877-45FB-8FC5-92495243ECE0",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.PRODUCT_MANAGE.PRODUCT",
+      "description": "成员管理后台.商品管理.商品管理",
+      "createdAt": 1519790604000
+    },
+    {
+      "id": "A776A69F-1D8F-4783-8970-62C14E4EE877",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.FIND_CAR",
+      "description": "成员管理后台.业务管理.找车管理",
+      "createdAt": 1510315637000
+    },
+    {
+      "id": "AA907CB6-0ED0-4A18-A534-1F2F446E1CB1",
+      "businessKey": "*",
+      "name": "UXIAOR_ADMIN.SUBMENU.VEHICLE.TRUCKPRICE",
+      "description": "成员管理后台.小二找车.运价管理",
+      "createdAt": 1478743004000
+    },
+    {
+      "id": "AB47072E-D972-4BD6-A1F3-D89123628477",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.PRODUCT_MANAGE.COUPON",
+      "description": "成员管理后台.商品管理.优惠劵管理",
+      "createdAt": 1519790640000
+    },
+    {
+      "id": "AC941591-1D22-4BE0-A1CD-250F342FCD0F",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.LOG_MANAGE.DAU",
+      "description": "成员管理后台.日志管理.日活统计",
+      "createdAt": 1514184909000
+    },
+    {
+      "id": "B6B328EC-D50B-4E34-897A-F947C007734F",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.PLAN",
+      "description": "成员管理后台.业务管理.计划管理",
+      "createdAt": 1486640087000
+    },
+    {
+      "id": "B7F800E0-6FCF-4702-BAE5-7AB3E4AC4F31",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.COLLECTION",
+      "description": "成员管理后台.业务管理.收款管理",
+      "createdAt": 1486640119000
+    },
+    {
+      "id": "BAB46321-0A72-4E04-BFB7-9C83801B01E1",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.FREIGHT_LIST",
+      "description": "成员管理后台.财务管理.新运费结算",
+      "createdAt": 1540980578000
+    },
+    {
+      "id": "BB5939F4-FF37-41D7-AAB0-83EA99975427",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.LOG_MANAGE.PRICESFORECAST_LIST",
+      "description": "成员管理后台.日志管理.行情预测",
+      "createdAt": 1539336088000
+    },
+    {
+      "id": "BEA97E06-2ED9-4742-A976-40F6D6AC1E8B",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.NEW_PLAN",
+      "description": "成员管理后台.业务管理.新计划管理",
+      "createdAt": 1540952642000
+    },
+    {
+      "id": "C0F5F7D6-4CCE-46BC-9D69-63EA4A015EA2",
+      "businessKey": "*",
+      "name": "UXIAOR_ADMIN.SUBMENU.LOGISTICS.REPORT",
+      "description": "成员管理后台.小二找车.物流报表",
+      "createdAt": 1540196420000
+    },
+    {
+      "id": "C2D805DB-0501-486D-968A-2C5711260427",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.DISCOUNT",
+      "description": "成员管理后台.基础数据.优惠管理",
+      "createdAt": 1490235105000
+    },
+    {
+      "id": "C5667759-B0BA-48DD-AAC1-181050F92CDA",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.MENU.FINANCE",
+      "description": "成员管理后台.财务管理",
+      "createdAt": 1540275369000
+    },
+    {
+      "id": "C7D2333D-688F-49C0-B174-C488B99DB9C8",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.ACCOUNT_MANAGE.STRONG_ORDER",
+      "description": "成员管理后台.账户管理.思创订单",
+      "createdAt": 1496373260000
+    },
+    {
+      "id": "C908F60D-50DC-40B2-B7F0-43463A93B353",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.ROLE",
+      "description": "成员管理后台.基础数据.角色管理",
+      "createdAt": 1478230172000
+    },
+    {
+      "id": "C96BF1DA-8AFD-44B6-B98D-7E6BFF83CBA2",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.MENU.CARD_MANAGE",
+      "description": "成员管理后台.小二加油站",
+      "createdAt": 1496748804000
+    },
+    {
+      "id": "CC7B9CEC-E19B-4C8D-B6F9-B48516BF0EB0",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.PERMISSION",
+      "description": "成员管理后台.基础数据.权限管理",
+      "createdAt": 1478230186000
+    },
+    {
+      "id": "CFAB2F00-66B3-4038-B020-CDA7EEE88151",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.NEW_ORDER_DOING",
+      "description": "成员管理后台.业务管理.新订单跟踪",
+      "createdAt": 1541120840000
+    },
+    {
+      "id": "D0C251F4-91B6-4BF2-B304-C833B0933043",
+      "businessKey": "*",
+      "name": "UXIAOR_ADMIN.SUBMENU.VEHICLE.PHONEGROUP",
+      "description": "成员管理后台.小二找车.电话组管理",
+      "createdAt": 1478743035000
+    },
+    {
+      "id": "D10F0AC9-4022-46CE-A93C-E5597F9B62D6",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.MESSAGE_MANAGE.TEMPLATE_LIST",
+      "description": "平台通知后台.消息管理.消息事件",
+      "createdAt": 1528273536000
+    },
+    {
+      "id": "D2194C59-83DC-4ED6-9995-2AB5396234B8",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.PRODUCT_MANAGE.SUPPLIER",
+      "description": "成员管理后台.商品管理.供应商管理",
+      "createdAt": 1519790621000
+    },
+    {
+      "id": "DB8D877F-3ACA-450A-8FBD-18C2CBAE040E",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.PRODUCT_MANAGE.PRODUCT_LABEL",
+      "description": "成员管理后台.商品管理.商品标签管理",
+      "createdAt": 1519959328000
+    },
+    {
+      "id": "E26FFCB1-C892-4354-865D-0963F0CFC9C6",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.FEEDBACK",
+      "description": "成员管理后台.基础数据.意见反馈",
+      "createdAt": 1490235301000
+    },
+    {
+      "id": "EC825D47-D02D-40DA-8371-29A49700087E",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.MENU.MEMBER",
+      "description": "成员管理后台.系统管理",
+      "createdAt": 1478230140000
+    },
+    {
+      "id": "F3ED7A11-8CE0-4B1F-AB68-27587301A452",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.ORDERAUDIT",
+      "description": "成员管理后台.业务管理.订单审核",
+      "createdAt": 1526538180000
+    },
+    {
+      "id": "F6810136-BEAD-4D30-A54B-96CE8531508E",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.PRODUCT_MANAGE.EXHIBITION",
+      "description": "成员管理后台.商品管理.展示商品管理",
+      "createdAt": 1519790650000
+    },
+    {
+      "id": "F6F8424B-CB79-4B84-B15E-28D9C96CEC5E",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.RECEIPT_LIST",
+      "description": "成员管理后台.财务管理.新对账管理",
+      "createdAt": 1540275398000
+    },
+    {
+      "id": "FCFA3EF6-9E43-4CB8-B4EA-2471C6B969F8",
+      "businessKey": "*",
+      "name": "UXIAOR_ADMIN.SUBMENU.CUSTOMER.CUSTOMERTYPE",
+      "description": "成员管理后台.客户管理.已分配加油站",
+      "createdAt": 1478743094000
+    },
+    {
+      "id": "FE60EA10-2928-40E4-BEB4-865363C6FB6D",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN.SUBMENU.PRODUCT_MANAGE.ENTRUSTMANAGEMENT",
+      "description": "成员管理后台.商品管理.委托管理",
+      "createdAt": 1522630627000
+    },
+    {
+      "id": "29E1566F-F676-4A38-84D1-BC1D4480F928",
+      "businessKey": "*",
+      "name": "POCKET.VEHICLE_MANGE",
+      "description": "爱油口袋.找车管理",
+      "createdAt": 1478143665000
+    },
+    {
+      "id": "23948679-E512-4F89-89B7-5579E2B1657F",
+      "businessKey": "*",
+      "name": "POCKET.BID_MANAGE",
+      "description": "爱油口袋.报价管理",
+      "createdAt": 1478143655000
+    },
+    {
+      "id": "4E722F21-E2FC-4DEC-A21B-7CC281B0C8CA",
+      "businessKey": "*",
+      "name": "POCKET.CUSTOMER_SERVICE_MANAGE",
+      "description": "爱油口袋.客服管理",
+      "createdAt": 1488422184000
+    },
+    {
+      "id": "6A7EFAF1-ED36-4DD0-B92A-E0C8A59918D0",
+      "businessKey": "*",
+      "name": "POCKET.BASE_DIRECTOR_MANAGE",
+      "description": "爱油口袋.驻场管理",
+      "createdAt": 1478143675000
+    },
+    {
+      "id": "E3DD846C-803B-4C47-A56A-4527416F6179",
+      "businessKey": "*",
+      "name": "POCKET.PLAN_MANAGE",
+      "description": "爱油口袋.计划管理",
+      "createdAt": 1478143684000
+    },
+    {
+      "id": "247B39E4-C463-4326-8973-4AA17B0B3846",
+      "businessKey": "*",
+      "name": "POCKET.BILL_QUERY",
+      "description": "爱油口袋.账单查询",
+      "createdAt": 1536287564000
+    },
+    {
+      "id": "3E21473C-9083-4DE6-87F0-5AB05E6A8307",
+      "businessKey": "*",
+      "name": "POCKET.OWNER_MANAGE",
+      "description": "爱油口袋.车主管理",
+      "createdAt": 1521697373000
+    },
+    {
+      "id": "47C62BB9-9C5A-4002-963C-02EB59828886",
+      "businessKey": "*",
+      "name": "POCKET.SUPPLIER_MANAGE",
+      "description": "爱油口袋.供应商管理",
+      "createdAt": 1536833726000
+    },
+    {
+      "id": "56D1EE44-1046-4859-8872-6AD0ACFED977",
+      "businessKey": "*",
+      "name": "POCKET.ISSUE_ORDER_MANAGE",
+      "description": "爱油口袋.异常订单",
+      "createdAt": 1542677746000
+    },
+    {
+      "id": "6966F66F-6B07-42B7-8271-C236B9158DB4",
+      "businessKey": "*",
+      "name": "POCKET.ACCOUNT_WITHDRAWAL",
+      "description": "爱油口袋.账户提现",
+      "createdAt": 1536287666000
+    },
+    {
+      "id": "70F148BF-9FAF-4FA3-8D9E-41D4E8A8D4FB",
+      "businessKey": "*",
+      "name": "POCKET.MAINTAIN_PRICE",
+      "description": "爱油口袋.维护价格",
+      "createdAt": 1536287456000
+    },
+    {
+      "id": "DAC442C7-2A6D-402F-91E5-75F2D529308A",
+      "businessKey": "*",
+      "name": "POCKET.FINANCIAL_MANAGE",
+      "description": "爱油口袋.财务管理",
+      "createdAt": 1482479403000
+    }
+  ],
+  "roles": [
+    {
+      "id": "105",
+      "businessKey": "*",
+      "name": "DEVELOPER",
+      "description": "开发&运维",
+      "createdAt": 1517828400000,
+      "permissions": []
+    },
+    {
+      "id": "F6A40139-3A27-44C2-B008-61CAF8A5F38D",
+      "businessKey": "*",
+      "name": "EMPLOYEE",
+      "description": "公司员工",
+      "createdAt": 1478480907000,
+      "permissions": []
+    },
+    {
+      "id": "106",
+      "businessKey": "*",
+      "name": "SALESMAN",
+      "description": "交易员",
+      "createdAt": 1517828400000,
+      "permissions": [
+        {
+          "id": "3F9E6E85-4CD2-4704-AF1E-9EA6366C5DBC",
+          "businessKey": "*",
+          "name": "AUTHENTICATION_GASSTASTION.LOOKUP",
+          "description": "H5&油小二.认证加油站",
+          "createdAt": 1477975867000
+        },
+        {
+          "id": "5E4D787B-DBE5-4818-B27F-9630718003DC",
+          "businessKey": "*",
+          "name": "UXIAOR_ADMIN.SUBMENU.CUSTOMER.INVALIDLIST",
+          "description": "成员管理后台.客户管理.无效客户",
+          "createdAt": 1532938426000
+        },
+        {
+          "id": "69C20EBD-FFF7-477C-8F5D-DF81B2D5DF47",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.DAILY_REPORT",
+          "description": "成员管理后台.业务管理.每日销量",
+          "createdAt": 1516095480000
+        },
+        {
+          "id": "702E926C-C6D7-4D0E-9397-EA14B0E67B5E",
+          "businessKey": "*",
+          "name": "UXIAOR_ADMIN.SUBMENU.CUSTOMER.SEALIST",
+          "description": "成员管理后台.客户管理.公海客户",
+          "createdAt": 1478743228000
+        },
+        {
+          "id": "7C3B35D1-97F7-4916-8F40-703BCA80734C",
+          "businessKey": "*",
+          "name": "UXIAOR_ADMIN.SUBMENU.CUSTOMER.RELEASEDLIST",
+          "description": "成员管理后台.客户管理.释放客户",
+          "createdAt": 1532938459000
+        },
+        {
+          "id": "93E54B73-0490-4363-8759-7C0A5B46FCA9",
+          "businessKey": "*",
+          "name": "UXIAOR_ADMIN.MENU.CUSTOMER.MYSELF",
+          "description": "成员管理后台.客户管理.我的客户",
+          "createdAt": 1478744027000
+        },
+        {
+          "id": "9EE9AC81-F289-4F9D-B358-BC8E3C6A5804",
+          "businessKey": "*",
+          "name": "UXIAOR_ADMIN.MENU.CUSTOMER",
+          "description": "成员管理后台.客户管理",
+          "createdAt": 1478743069000
+        },
+        {
+          "id": "DB8955F8-6EBE-47FC-AE43-809DAD7E9156",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.MENU.BUSINESS",
+          "description": "成员管理后台.业务管理",
+          "createdAt": 1486639928000
+        },
+        {
+          "id": "F8A55215-6B02-4B61-A5A5-59C2C9F6A431",
+          "businessKey": "*",
+          "name": "POCKET.CRM_MANAGE",
+          "description": "爱油口袋.CRM管理",
+          "createdAt": 1478143644000
+        }
+      ]
+    },
+    {
+      "id": "AE58701C-B6CE-4A56-AC76-93C6F4A7FF86",
+      "businessKey": "*",
+      "name": "MEMBER_ADMIN_ALL",
+      "description": "后台系统管理员",
+      "createdAt": 1478230398000,
+      "permissions": [
+        {
+          "id": "02EF1134-5036-4B73-A33A-70BBACEFE15B",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.MENU.ACCOUNT_MANAGE",
+          "description": "成员管理后台.账户管理",
+          "createdAt": 1495426192000
+        },
+        {
+          "id": "039771FD-BA85-4CBD-A47C-6FD3168A3D49",
+          "businessKey": "*",
+          "name": "UXIAOR_ADMIN.SUBMENU.EXAMINE",
+          "description": "成员管理后台.小二找车.物流审核",
+          "createdAt": 1525233026000
+        },
+        {
+          "id": "063D3B62-EE99-4C6D-B1E4-D395B2175EE2",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.NEW_ORDER_TRACKING",
+          "description": "成员管理后台.业务管理.新订单追踪",
+          "createdAt": 1541558341000
+        },
+        {
+          "id": "0A0C21A6-C3A6-48E6-9C0E-40C36F4B9A7B",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.NEW_ORDER",
+          "description": "成员管理后台.业务管理.新订单中心",
+          "createdAt": 1540190749000
+        },
+        {
+          "id": "0CC75391-5346-4044-BD25-B4C1DE4C41AF",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.NEW_SUPPLIER_ACCOUNT_CHECK",
+          "description": "成员管理后台.业务管理.新供应商对账管理",
+          "createdAt": 1543194959000
+        },
+        {
+          "id": "116843D8-20F0-4AB8-9A55-4AB625C69145",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.SUPPLIERACCOUNT",
+          "description": "成员管理后台.业务管理.供应商钱包管理",
+          "createdAt": 1510315596000
+        },
+        {
+          "id": "13BDB564-9CDF-430C-A159-31C110003537",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.MESSAGE_MANAGE.CHANNEL_LIST",
+          "description": "平台通知后台.消息管理.事件通道",
+          "createdAt": 1528267845000
+        },
+        {
+          "id": "1516DD51-0183-473D-9369-CEF83A56BC96",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.TRANSFER_LIST",
+          "description": "成员管理后台.业务管理.转账管理",
+          "createdAt": 1534920053000
+        },
+        {
+          "id": "1ABC99AE-54CA-4EA0-8D88-1CDC5993EE37",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.MENU.MEMBER",
+          "description": "成员管理后台.基础数据",
+          "createdAt": 1490235411000
+        },
+        {
+          "id": "1E5591B5-C1E2-481E-AF57-12C8E78F93C2",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.VEHICLE",
+          "description": "成员管理后台.系统管理.找车专员",
+          "createdAt": 1493690361000
+        },
+        {
+          "id": "1EA20BA3-F088-4B68-8272-7B6CF1FD089A",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.STATEMENT_LIST_NEW",
+          "description": "成员管理后台.财务管理.新结算管理",
+          "createdAt": 1540517391000
+        },
+        {
+          "id": "1EADA0E1-0C97-4285-BBD3-AE9B437832DF",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.FINANCE",
+          "description": "成员管理后台.业务管理.财务管理",
+          "createdAt": 1486640002000
+        },
+        {
+          "id": "2A94B8F3-65AE-4108-B87B-104F0AFC6668",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.ORDER",
+          "description": "成员管理后台.业务管理.订单中心",
+          "createdAt": 1486640053000
+        },
+        {
+          "id": "2D2D71C5-D0FA-47D8-9C0D-8A4F3294B63C",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.NEW_REBATE_LIST",
+          "description": "成员管理后台.业务管理.新返利结算",
+          "createdAt": 1543194855000
+        },
+        {
+          "id": "2E58FD22-4AF3-4B8F-9F71-4DA2EDD91206",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.TRANSFER_LIST",
+          "description": "成员管理后台.财务管理.新转账管理",
+          "createdAt": 1540980596000
+        },
+        {
+          "id": "2E908D97-2036-4D79-98B7-222036B5950F",
+          "businessKey": "*",
+          "name": "UXIAOR_ADMIN.SUBMENU.CUSTOMER.SEECUSTOMER",
+          "description": "成员管理后台.客户管理.公海使用记录",
+          "createdAt": 1478854062000
+        },
+        {
+          "id": "2EE27093-3F96-48BE-BE9B-E9ED5EDBF4D3",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.MENU.PRODUCT_MANAGE",
+          "description": "成员管理后台.商品管理",
+          "createdAt": 1519790556000
+        },
+        {
+          "id": "2FBA7BAC-B548-4FD4-9BF4-C85736FE8D4F",
+          "businessKey": "*",
+          "name": "UXIAOR_ADMIN.SUBMENU.OWNER.VEHICLE",
+          "description": "成员管理后台.小二找车.车主车辆管理",
+          "createdAt": 1533177998000
+        },
+        {
+          "id": "31221049-E092-4F52-A3A4-546E693C9ED4",
+          "businessKey": "*",
+          "name": "UXIAOR_ADMIN.SUBMENU.LOGISTICS.REPORT",
+          "description": "成员管理后台.小二找车.物流报表",
+          "createdAt": 1540861725000
+        },
+        {
+          "id": "339FD133-70A4-4D5B-A5DC-C563E07761EB",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.SUPPLIER_ACCOUNT_CHECK",
+          "description": "成员管理后台.业务管理.供应商对账管理",
+          "createdAt": 1541409003000
+        },
+        {
+          "id": "35312123-FE60-481D-9E39-47CB160BEB04",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.TRANSPORT",
+          "description": "成员管理后台.业务管理.物流管理",
+          "createdAt": 1486640174000
+        },
+        {
+          "id": "36726711-60E5-497E-99A5-ABBAE22DBF0C",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.PRODUCT_MANAGE.PRODUCT_TYPE",
+          "description": "成员管理后台.商品管理.商品类型管理",
+          "createdAt": 1519790592000
+        },
+        {
+          "id": "37BD64A5-4952-4396-9055-02EEADC7EB92",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.USER",
+          "description": "成员管理后台.系统管理.用户管理",
+          "createdAt": 1478230158000
+        },
+        {
+          "id": "3B343904-75D4-4BEF-94A0-A8432C998D2B",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.STATEMENT_LIST",
+          "description": "成员管理后台.业务管理.结算管理",
+          "createdAt": 1502949618000
+        },
+        {
+          "id": "3D7384FF-44B7-480E-B081-0D5B601D30EC",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.MENU.REFERENCE_MANAGE",
+          "description": "成员管理后台.小二内参",
+          "createdAt": 1504690249000
+        },
+        {
+          "id": "3F9E6E85-4CD2-4704-AF1E-9EA6366C5DBC",
+          "businessKey": "*",
+          "name": "AUTHENTICATION_GASSTASTION.LOOKUP",
+          "description": "H5&油小二.认证加油站",
+          "createdAt": 1477975867000
+        },
+        {
+          "id": "47C1C35F-9803-4201-89A7-B60D4AE325FB",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.RECEIVE_LIST",
+          "description": "成员管理后台.业务管理.对账管理",
+          "createdAt": 1517988103000
+        },
+        {
+          "id": "48C0698D-1DDF-48A0-9A51-02BC0C23F306",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.DOING",
+          "description": "成员管理后台.业务管理.订单跟踪",
+          "createdAt": 1490175496000
+        },
+        {
+          "id": "490AA826-C113-47D6-BB67-AD6BAA8A3AF4",
+          "businessKey": "*",
+          "name": "UXIAOR_ADMIN.SUBMENU.VEHICLE.TRUCK",
+          "description": "成员管理后台.小二找车.司机管理",
+          "createdAt": 1478742984000
+        },
+        {
+          "id": "497DE1D8-7E93-4772-BB99-358DA6B2BE89",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.EMPLOYEE",
+          "description": "成员管理后台.系统管理.员工管理",
+          "createdAt": 1478481732000
+        },
+        {
+          "id": "4D61ED2D-FBCB-4C05-91FF-8F2B1A946519",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.SIGN",
+          "description": "成员管理后台.业务管理.驻场管理",
+          "createdAt": 1512095190000
+        },
+        {
+          "id": "504103C8-95CF-4352-9DEB-1483C23E62F8",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.PRODUCT_MANAGE.CITY",
+          "description": "成员管理后台.商品管理.城市管理",
+          "createdAt": 1530596758000
+        },
+        {
+          "id": "520D0A87-8B0B-4202-8364-CB6BD49C2910",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.MESSAGE_MANAGE.TRIGGER_LIST",
+          "description": "平台通知后台.消息管理.触发器",
+          "createdAt": 1528274125000
+        },
+        {
+          "id": "52AB3797-739C-4ABC-9E25-E724F0B4C542",
+          "businessKey": "*",
+          "name": "UXIAOR_ADMIN.SUBMENU.CUSTOMER.LABEL",
+          "description": "成员管理后台.客户管理.审核管理",
+          "createdAt": 1478743212000
+        },
+        {
+          "id": "59B87BF0-4ECC-4558-AEDF-DFC9611F775E",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.SUPPLIER",
+          "description": "成员管理后台.基础数据.供应商",
+          "createdAt": 1490235091000
+        },
+        {
+          "id": "5E4D787B-DBE5-4818-B27F-9630718003DC",
+          "businessKey": "*",
+          "name": "UXIAOR_ADMIN.SUBMENU.CUSTOMER.INVALIDLIST",
+          "description": "成员管理后台.客户管理.无效客户",
+          "createdAt": 1532938426000
+        },
+        {
+          "id": "61BAA19C-7235-4D94-8F4E-7FF8D4607729",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.REFERENCE_MANAGE.MESSAGE_LIST",
+          "description": "成员管理后台.小二内参.内参信息列表",
+          "createdAt": 1504690283000
+        },
+        {
+          "id": "6951F6F7-8EAC-4776-A71C-4C6C702DAA92",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.ACCOUNT_MANAGE.ORDER_PAYEE",
+          "description": "成员管理后台.账户管理.订单(应收)",
+          "createdAt": 1495457528000
+        },
+        {
+          "id": "69C20EBD-FFF7-477C-8F5D-DF81B2D5DF47",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.DAILY_REPORT",
+          "description": "成员管理后台.业务管理.每日销量",
+          "createdAt": 1516095480000
+        },
+        {
+          "id": "69FA2E9B-A4AD-41E6-9235-6833A9E03CF9",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.PRODUCT_MANAGE.REFINERY",
+          "description": "成员管理后台.商品管理.炼厂管理",
+          "createdAt": 1519790569000
+        },
+        {
+          "id": "6E0C9240-DB97-4F8B-926F-F8ED119AD59C",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.ACCOUNT_MANAGE.ACCOUNT",
+          "description": "成员管理后台.账户管理.我的账户",
+          "createdAt": 1495426203000
+        },
+        {
+          "id": "6E59D610-828D-428D-8DB0-384CC1BF4E5D",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.PRODUCT_MANAGE.DISCOUNT",
+          "description": "成员管理后台.商品管理.优惠管理",
+          "createdAt": 1519790631000
+        },
+        {
+          "id": "6E6353F2-C19A-4120-9917-EF0004FA8D92",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.ORDER_TRACKING",
+          "description": "成员管理后台.业务管理.订单追踪",
+          "createdAt": 1532050396000
+        },
+        {
+          "id": "6FD8FA53-4E38-4284-997F-A3FA23FD905A",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.SYSTEM_CONFIG",
+          "description": "成员管理后台.基础数据.系统配置",
+          "createdAt": 1490235273000
+        },
+        {
+          "id": "702E926C-C6D7-4D0E-9397-EA14B0E67B5E",
+          "businessKey": "*",
+          "name": "UXIAOR_ADMIN.SUBMENU.CUSTOMER.SEALIST",
+          "description": "成员管理后台.客户管理.公海客户",
+          "createdAt": 1478743228000
+        },
+        {
+          "id": "7105AC6C-38FA-4169-A714-2FEB5A56A9D4",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.REBATE_LIST",
+          "description": "成员管理后台.业务管理.返利结算",
+          "createdAt": 1540869867000
+        },
+        {
+          "id": "7281A8E8-AEC5-449A-980E-4F6CE82FEC68",
+          "businessKey": "*",
+          "name": "UXIAOR_ADMIN.MENU.VEHICLE",
+          "description": "成员管理后台.小二找车",
+          "createdAt": 1478742955000
+        },
+        {
+          "id": "7C3B35D1-97F7-4916-8F40-703BCA80734C",
+          "businessKey": "*",
+          "name": "UXIAOR_ADMIN.SUBMENU.CUSTOMER.RELEASEDLIST",
+          "description": "成员管理后台.客户管理.释放客户",
+          "createdAt": 1532938459000
+        },
+        {
+          "id": "7C4D04E8-A682-439A-ADFE-0B832A91AA8B",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.LOGISTIC",
+          "description": "成员管理后台.业务管理.物流钱包管理",
+          "createdAt": 1511761738000
+        },
+        {
+          "id": "81A7281F-56F5-4CD5-8508-79E2790BFAD3",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.LOG_MANAGE.DAU_DETAIL",
+          "description": "成员管理后台.日志管理.日活详情",
+          "createdAt": 1514184923000
+        },
+        {
+          "id": "833B9A63-F3F9-4C41-9AE1-C23150BA7C42",
+          "businessKey": "*",
+          "name": "UXIAOR_ADMIN.SUBMENU.COOPERATORLIST",
+          "description": "成员管理后台.小二找车.小二找车管理",
+          "createdAt": 1529048903000
+        },
+        {
+          "id": "83A1F0D8-0AE7-4022-9010-ECDB167C1418",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.FREIGHT_LIST",
+          "description": "成员管理后台.业务管理.运费结算",
+          "createdAt": 1538284192000
+        },
+        {
+          "id": "8792A25F-DEAD-44D4-AB2D-C84DF09CF4E5",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.CARD_MANAGE.COMPANY_LIST",
+          "description": "成员管理后台.小二加油站.公司列表",
+          "createdAt": 1496748813000
+        },
+        {
+          "id": "89C4E714-FBE3-4F6D-A8B4-F94936DAED4E",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.NEW_DAILY_REPORT",
+          "description": "成员管理后台.业务管理.新每日销量",
+          "createdAt": 1541562181000
+        },
+        {
+          "id": "8C879F87-525B-4556-AC40-031B33CC9955",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.LOGISTICS_BILL",
+          "description": "成员管理后台.业务管理.新物流账单",
+          "createdAt": 1541492848000
+        },
+        {
+          "id": "8CB8D650-5FCA-41DD-9FB0-373F15C8A2E7",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.REFERENCE_MANAGE.TOPIC_LIST",
+          "description": "成员管理后台.小二内参.内参主题列表",
+          "createdAt": 1504690267000
+        },
+        {
+          "id": "8CE42E9B-3AF7-4797-B34D-E942966315BE",
+          "businessKey": "*",
+          "name": "UXIAOR_ADMIN.SUBMENU.VEHICLE.EXAMINE",
+          "description": "成员管理后台.小二找车.车辆审核",
+          "createdAt": 1536024736000
+        },
+        {
+          "id": "8D798A02-553D-42E8-8462-5628EAD3B731",
+          "businessKey": "*",
+          "name": "UXIAOR_ADMIN.SUBMENU.VEHICLE.EXAMINE",
+          "description": "成员管理后台.小二找车.车辆审核",
+          "createdAt": 1534818796000
+        },
+        {
+          "id": "8E46C3C7-037A-4A5F-AB28-D4229A59D417",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.MENU.MESSAGE_MANAGE",
+          "description": "平台通知后台.消息管理",
+          "createdAt": 1528265380000
+        },
+        {
+          "id": "931036D2-4E13-4940-869F-F9A9841B0107",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.REFERENCE_MANAGE.SEND_LIST",
+          "description": "成员管理后台.小二内参.推送管理",
+          "createdAt": 1539333534000
+        },
+        {
+          "id": "93E54B73-0490-4363-8759-7C0A5B46FCA9",
+          "businessKey": "*",
+          "name": "UXIAOR_ADMIN.MENU.CUSTOMER.MYSELF",
+          "description": "成员管理后台.客户管理.我的客户",
+          "createdAt": 1478744027000
+        },
+        {
+          "id": "9A1EA89D-6A9E-4E0E-B552-A9DC16811077",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.MENU.LOG_MANAGE",
+          "description": "成员管理后台.日志管理",
+          "createdAt": 1514184893000
+        },
+        {
+          "id": "9EE9AC81-F289-4F9D-B358-BC8E3C6A5804",
+          "businessKey": "*",
+          "name": "UXIAOR_ADMIN.MENU.CUSTOMER",
+          "description": "成员管理后台.客户管理",
+          "createdAt": 1478743069000
+        },
+        {
+          "id": "A1362EA7-974D-40A1-9A36-671791650B25",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.ACCOUNT_MANAGE.ORDER",
+          "description": "成员管理后台.账户管理.订单(应付)",
+          "createdAt": 1495426216000
+        },
+        {
+          "id": "A5BAE3DE-C17D-4489-8657-C35394D0BC10",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.PRODUCT_MANAGE.WAREHOUSE",
+          "description": "成员管理后台.商品管理.仓库管理",
+          "createdAt": 1519790581000
+        },
+        {
+          "id": "A6478F7D-4877-45FB-8FC5-92495243ECE0",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.PRODUCT_MANAGE.PRODUCT",
+          "description": "成员管理后台.商品管理.商品管理",
+          "createdAt": 1519790604000
+        },
+        {
+          "id": "A776A69F-1D8F-4783-8970-62C14E4EE877",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.FIND_CAR",
+          "description": "成员管理后台.业务管理.找车管理",
+          "createdAt": 1510315637000
+        },
+        {
+          "id": "AA907CB6-0ED0-4A18-A534-1F2F446E1CB1",
+          "businessKey": "*",
+          "name": "UXIAOR_ADMIN.SUBMENU.VEHICLE.TRUCKPRICE",
+          "description": "成员管理后台.小二找车.运价管理",
+          "createdAt": 1478743004000
+        },
+        {
+          "id": "AB47072E-D972-4BD6-A1F3-D89123628477",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.PRODUCT_MANAGE.COUPON",
+          "description": "成员管理后台.商品管理.优惠劵管理",
+          "createdAt": 1519790640000
+        },
+        {
+          "id": "AC941591-1D22-4BE0-A1CD-250F342FCD0F",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.LOG_MANAGE.DAU",
+          "description": "成员管理后台.日志管理.日活统计",
+          "createdAt": 1514184909000
+        },
+        {
+          "id": "B6B328EC-D50B-4E34-897A-F947C007734F",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.PLAN",
+          "description": "成员管理后台.业务管理.计划管理",
+          "createdAt": 1486640087000
+        },
+        {
+          "id": "B7F800E0-6FCF-4702-BAE5-7AB3E4AC4F31",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.COLLECTION",
+          "description": "成员管理后台.业务管理.收款管理",
+          "createdAt": 1486640119000
+        },
+        {
+          "id": "BAB46321-0A72-4E04-BFB7-9C83801B01E1",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.FREIGHT_LIST",
+          "description": "成员管理后台.财务管理.新运费结算",
+          "createdAt": 1540980578000
+        },
+        {
+          "id": "BB5939F4-FF37-41D7-AAB0-83EA99975427",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.LOG_MANAGE.PRICESFORECAST_LIST",
+          "description": "成员管理后台.日志管理.行情预测",
+          "createdAt": 1539336088000
+        },
+        {
+          "id": "BEA97E06-2ED9-4742-A976-40F6D6AC1E8B",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.NEW_PLAN",
+          "description": "成员管理后台.业务管理.新计划管理",
+          "createdAt": 1540952642000
+        },
+        {
+          "id": "C0F5F7D6-4CCE-46BC-9D69-63EA4A015EA2",
+          "businessKey": "*",
+          "name": "UXIAOR_ADMIN.SUBMENU.LOGISTICS.REPORT",
+          "description": "成员管理后台.小二找车.物流报表",
+          "createdAt": 1540196420000
+        },
+        {
+          "id": "C2D805DB-0501-486D-968A-2C5711260427",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.DISCOUNT",
+          "description": "成员管理后台.基础数据.优惠管理",
+          "createdAt": 1490235105000
+        },
+        {
+          "id": "C5667759-B0BA-48DD-AAC1-181050F92CDA",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.MENU.FINANCE",
+          "description": "成员管理后台.财务管理",
+          "createdAt": 1540275369000
+        },
+        {
+          "id": "C7D2333D-688F-49C0-B174-C488B99DB9C8",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.ACCOUNT_MANAGE.STRONG_ORDER",
+          "description": "成员管理后台.账户管理.思创订单",
+          "createdAt": 1496373260000
+        },
+        {
+          "id": "C908F60D-50DC-40B2-B7F0-43463A93B353",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.ROLE",
+          "description": "成员管理后台.基础数据.角色管理",
+          "createdAt": 1478230172000
+        },
+        {
+          "id": "C96BF1DA-8AFD-44B6-B98D-7E6BFF83CBA2",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.MENU.CARD_MANAGE",
+          "description": "成员管理后台.小二加油站",
+          "createdAt": 1496748804000
+        },
+        {
+          "id": "CC7B9CEC-E19B-4C8D-B6F9-B48516BF0EB0",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.PERMISSION",
+          "description": "成员管理后台.基础数据.权限管理",
+          "createdAt": 1478230186000
+        },
+        {
+          "id": "CFAB2F00-66B3-4038-B020-CDA7EEE88151",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.NEW_ORDER_DOING",
+          "description": "成员管理后台.业务管理.新订单跟踪",
+          "createdAt": 1541120840000
+        },
+        {
+          "id": "D0C251F4-91B6-4BF2-B304-C833B0933043",
+          "businessKey": "*",
+          "name": "UXIAOR_ADMIN.SUBMENU.VEHICLE.PHONEGROUP",
+          "description": "成员管理后台.小二找车.电话组管理",
+          "createdAt": 1478743035000
+        },
+        {
+          "id": "D10F0AC9-4022-46CE-A93C-E5597F9B62D6",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.MESSAGE_MANAGE.TEMPLATE_LIST",
+          "description": "平台通知后台.消息管理.消息事件",
+          "createdAt": 1528273536000
+        },
+        {
+          "id": "D2194C59-83DC-4ED6-9995-2AB5396234B8",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.PRODUCT_MANAGE.SUPPLIER",
+          "description": "成员管理后台.商品管理.供应商管理",
+          "createdAt": 1519790621000
+        },
+        {
+          "id": "DB8955F8-6EBE-47FC-AE43-809DAD7E9156",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.MENU.BUSINESS",
+          "description": "成员管理后台.业务管理",
+          "createdAt": 1486639928000
+        },
+        {
+          "id": "DB8D877F-3ACA-450A-8FBD-18C2CBAE040E",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.PRODUCT_MANAGE.PRODUCT_LABEL",
+          "description": "成员管理后台.商品管理.商品标签管理",
+          "createdAt": 1519959328000
+        },
+        {
+          "id": "E26FFCB1-C892-4354-865D-0963F0CFC9C6",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.FEEDBACK",
+          "description": "成员管理后台.基础数据.意见反馈",
+          "createdAt": 1490235301000
+        },
+        {
+          "id": "EC825D47-D02D-40DA-8371-29A49700087E",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.MENU.MEMBER",
+          "description": "成员管理后台.系统管理",
+          "createdAt": 1478230140000
+        },
+        {
+          "id": "F3ED7A11-8CE0-4B1F-AB68-27587301A452",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.ORDERAUDIT",
+          "description": "成员管理后台.业务管理.订单审核",
+          "createdAt": 1526538180000
+        },
+        {
+          "id": "F6810136-BEAD-4D30-A54B-96CE8531508E",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.PRODUCT_MANAGE.EXHIBITION",
+          "description": "成员管理后台.商品管理.展示商品管理",
+          "createdAt": 1519790650000
+        },
+        {
+          "id": "F6F8424B-CB79-4B84-B15E-28D9C96CEC5E",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.RECEIPT_LIST",
+          "description": "成员管理后台.财务管理.新对账管理",
+          "createdAt": 1540275398000
+        },
+        {
+          "id": "F8A55215-6B02-4B61-A5A5-59C2C9F6A431",
+          "businessKey": "*",
+          "name": "POCKET.CRM_MANAGE",
+          "description": "爱油口袋.CRM管理",
+          "createdAt": 1478143644000
+        },
+        {
+          "id": "FCFA3EF6-9E43-4CB8-B4EA-2471C6B969F8",
+          "businessKey": "*",
+          "name": "UXIAOR_ADMIN.SUBMENU.CUSTOMER.CUSTOMERTYPE",
+          "description": "成员管理后台.客户管理.已分配加油站",
+          "createdAt": 1478743094000
+        },
+        {
+          "id": "FE60EA10-2928-40E4-BEB4-865363C6FB6D",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.PRODUCT_MANAGE.ENTRUSTMANAGEMENT",
+          "description": "成员管理后台.商品管理.委托管理",
+          "createdAt": 1522630627000
+        }
+      ]
+    },
+    {
+      "id": "108",
+      "businessKey": "*",
+      "name": "VEHICLE",
+      "description": "找车专员",
+      "createdAt": 1517828400000,
+      "permissions": [
+        {
+          "id": "29E1566F-F676-4A38-84D1-BC1D4480F928",
+          "businessKey": "*",
+          "name": "POCKET.VEHICLE_MANGE",
+          "description": "爱油口袋.找车管理",
+          "createdAt": 1478143665000
+        },
+        {
+          "id": "3F9E6E85-4CD2-4704-AF1E-9EA6366C5DBC",
+          "businessKey": "*",
+          "name": "AUTHENTICATION_GASSTASTION.LOOKUP",
+          "description": "H5&油小二.认证加油站",
+          "createdAt": 1477975867000
+        }
+      ]
+    },
+    {
+      "id": "109",
+      "businessKey": "*",
+      "name": "DISPATCHER",
+      "description": "调度",
+      "createdAt": 1517828400000,
+      "permissions": [
+        {
+          "id": "1ABC99AE-54CA-4EA0-8D88-1CDC5993EE37",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.MENU.MEMBER",
+          "description": "成员管理后台.基础数据",
+          "createdAt": 1490235411000
+        },
+        {
+          "id": "23948679-E512-4F89-89B7-5579E2B1657F",
+          "businessKey": "*",
+          "name": "POCKET.BID_MANAGE",
+          "description": "爱油口袋.报价管理",
+          "createdAt": 1478143655000
+        },
+        {
+          "id": "29E1566F-F676-4A38-84D1-BC1D4480F928",
+          "businessKey": "*",
+          "name": "POCKET.VEHICLE_MANGE",
+          "description": "爱油口袋.找车管理",
+          "createdAt": 1478143665000
+        },
+        {
+          "id": "2A94B8F3-65AE-4108-B87B-104F0AFC6668",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.ORDER",
+          "description": "成员管理后台.业务管理.订单中心",
+          "createdAt": 1486640053000
+        },
+        {
+          "id": "3F9E6E85-4CD2-4704-AF1E-9EA6366C5DBC",
+          "businessKey": "*",
+          "name": "AUTHENTICATION_GASSTASTION.LOOKUP",
+          "description": "H5&油小二.认证加油站",
+          "createdAt": 1477975867000
+        },
+        {
+          "id": "4E722F21-E2FC-4DEC-A21B-7CC281B0C8CA",
+          "businessKey": "*",
+          "name": "POCKET.CUSTOMER_SERVICE_MANAGE",
+          "description": "爱油口袋.客服管理",
+          "createdAt": 1488422184000
+        },
+        {
+          "id": "52AB3797-739C-4ABC-9E25-E724F0B4C542",
+          "businessKey": "*",
+          "name": "UXIAOR_ADMIN.SUBMENU.CUSTOMER.LABEL",
+          "description": "成员管理后台.客户管理.审核管理",
+          "createdAt": 1478743212000
+        },
+        {
+          "id": "59B87BF0-4ECC-4558-AEDF-DFC9611F775E",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.SUPPLIER",
+          "description": "成员管理后台.基础数据.供应商",
+          "createdAt": 1490235091000
+        },
+        {
+          "id": "69C20EBD-FFF7-477C-8F5D-DF81B2D5DF47",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.DAILY_REPORT",
+          "description": "成员管理后台.业务管理.每日销量",
+          "createdAt": 1516095480000
+        },
+        {
+          "id": "6A7EFAF1-ED36-4DD0-B92A-E0C8A59918D0",
+          "businessKey": "*",
+          "name": "POCKET.BASE_DIRECTOR_MANAGE",
+          "description": "爱油口袋.驻场管理",
+          "createdAt": 1478143675000
+        },
+        {
+          "id": "9EE9AC81-F289-4F9D-B358-BC8E3C6A5804",
+          "businessKey": "*",
+          "name": "UXIAOR_ADMIN.MENU.CUSTOMER",
+          "description": "成员管理后台.客户管理",
+          "createdAt": 1478743069000
+        },
+        {
+          "id": "B6B328EC-D50B-4E34-897A-F947C007734F",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.PLAN",
+          "description": "成员管理后台.业务管理.计划管理",
+          "createdAt": 1486640087000
+        },
+        {
+          "id": "C2D805DB-0501-486D-968A-2C5711260427",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.SUBMENU.DISCOUNT",
+          "description": "成员管理后台.基础数据.优惠管理",
+          "createdAt": 1490235105000
+        },
+        {
+          "id": "DB8955F8-6EBE-47FC-AE43-809DAD7E9156",
+          "businessKey": "*",
+          "name": "MEMBER_ADMIN.MENU.BUSINESS",
+          "description": "成员管理后台.业务管理",
+          "createdAt": 1486639928000
+        },
+        {
+          "id": "E3DD846C-803B-4C47-A56A-4527416F6179",
+          "businessKey": "*",
+          "name": "POCKET.PLAN_MANAGE",
+          "description": "爱油口袋.计划管理",
+          "createdAt": 1478143684000
+        }
+      ]
+    },
+    {
+      "id": "2E420621-DD89-43FE-A0C6-64C610748138",
+      "businessKey": "*",
+      "name": "POCKET_ALL",
+      "description": "口袋系统管理员",
+      "createdAt": 1478143986000,
+      "permissions": [
+        {
+          "id": "23948679-E512-4F89-89B7-5579E2B1657F",
+          "businessKey": "*",
+          "name": "POCKET.BID_MANAGE",
+          "description": "爱油口袋.报价管理",
+          "createdAt": 1478143655000
+        },
+        {
+          "id": "247B39E4-C463-4326-8973-4AA17B0B3846",
+          "businessKey": "*",
+          "name": "POCKET.BILL_QUERY",
+          "description": "爱油口袋.账单查询",
+          "createdAt": 1536287564000
+        },
+        {
+          "id": "29E1566F-F676-4A38-84D1-BC1D4480F928",
+          "businessKey": "*",
+          "name": "POCKET.VEHICLE_MANGE",
+          "description": "爱油口袋.找车管理",
+          "createdAt": 1478143665000
+        },
+        {
+          "id": "3E21473C-9083-4DE6-87F0-5AB05E6A8307",
+          "businessKey": "*",
+          "name": "POCKET.OWNER_MANAGE",
+          "description": "爱油口袋.车主管理",
+          "createdAt": 1521697373000
+        },
+        {
+          "id": "3F9E6E85-4CD2-4704-AF1E-9EA6366C5DBC",
+          "businessKey": "*",
+          "name": "AUTHENTICATION_GASSTASTION.LOOKUP",
+          "description": "H5&油小二.认证加油站",
+          "createdAt": 1477975867000
+        },
+        {
+          "id": "47C62BB9-9C5A-4002-963C-02EB59828886",
+          "businessKey": "*",
+          "name": "POCKET.SUPPLIER_MANAGE",
+          "description": "爱油口袋.供应商管理",
+          "createdAt": 1536833726000
+        },
+        {
+          "id": "4E722F21-E2FC-4DEC-A21B-7CC281B0C8CA",
+          "businessKey": "*",
+          "name": "POCKET.CUSTOMER_SERVICE_MANAGE",
+          "description": "爱油口袋.客服管理",
+          "createdAt": 1488422184000
+        },
+        {
+          "id": "56D1EE44-1046-4859-8872-6AD0ACFED977",
+          "businessKey": "*",
+          "name": "POCKET.ISSUE_ORDER_MANAGE",
+          "description": "爱油口袋.异常订单",
+          "createdAt": 1542677746000
+        },
+        {
+          "id": "6966F66F-6B07-42B7-8271-C236B9158DB4",
+          "businessKey": "*",
+          "name": "POCKET.ACCOUNT_WITHDRAWAL",
+          "description": "爱油口袋.账户提现",
+          "createdAt": 1536287666000
+        },
+        {
+          "id": "6A7EFAF1-ED36-4DD0-B92A-E0C8A59918D0",
+          "businessKey": "*",
+          "name": "POCKET.BASE_DIRECTOR_MANAGE",
+          "description": "爱油口袋.驻场管理",
+          "createdAt": 1478143675000
+        },
+        {
+          "id": "70F148BF-9FAF-4FA3-8D9E-41D4E8A8D4FB",
+          "businessKey": "*",
+          "name": "POCKET.MAINTAIN_PRICE",
+          "description": "爱油口袋.维护价格",
+          "createdAt": 1536287456000
+        },
+        {
+          "id": "DAC442C7-2A6D-402F-91E5-75F2D529308A",
+          "businessKey": "*",
+          "name": "POCKET.FINANCIAL_MANAGE",
+          "description": "爱油口袋.财务管理",
+          "createdAt": 1482479403000
+        },
+        {
+          "id": "E3DD846C-803B-4C47-A56A-4527416F6179",
+          "businessKey": "*",
+          "name": "POCKET.PLAN_MANAGE",
+          "description": "爱油口袋.计划管理",
+          "createdAt": 1478143684000
+        },
+        {
+          "id": "F8A55215-6B02-4B61-A5A5-59C2C9F6A431",
+          "businessKey": "*",
+          "name": "POCKET.CRM_MANAGE",
+          "description": "爱油口袋.CRM管理",
+          "createdAt": 1478143644000
+        }
+      ]
+    },
+    {
+      "id": "B598F147-0470-4F17-8BD9-1C97009B73FA",
+      "businessKey": "*",
+      "name": "TESTER",
+      "description": "测试",
+      "createdAt": 1542786338000,
+      "permissions": []
+    }
+  ],
+  "idCard": null,
+  "jwtToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIxODQ1In0.P61xas-Z7njNlUC_iSOXHgdLa3SMV5RYQLqag1a4CSw"
+}

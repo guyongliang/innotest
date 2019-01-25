@@ -8,7 +8,11 @@ spring:
     database: mysql
     hibernate:
       ddl-auto: update
-    database-platform: org.hibernate.dialect.MySQL5InnoDBDialect  #不加这句则默认为myisam引擎
+    database-platform: org.hibernate.dialect.MySQL5InnoDBDialect #不加这句则默认为myisam引擎
+  output:
+    ansi:
+      enabled: always
+
 
 
 #---
