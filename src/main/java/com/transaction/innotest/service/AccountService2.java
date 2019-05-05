@@ -12,30 +12,22 @@ import java.math.BigDecimal;
 import java.util.List;
 
 @Service
-public class AccountService {
+public class AccountService2 {
     @Autowired
     AccountRepository accountRepository;
-    @Autowired
-    AccountService2 accountService2;
 
-    @Transactional
-    public Account add(Account account) {
-        return accountRepository.save(account);
-    }
-
-    @Transactional
-    public Account findOne(Long id) {
-        return accountRepository.findById(id).get();
-    }
-
-    @Transactional(timeout = 3, isolation = Isolation.READ_COMMITTED)
-    public List<Account> findByName(String name) {
-        return accountRepository.findByName(name);
+    @Transactional(propagation = Propagation.REQUIRES_NEW)
+    public void transactionTest2() {
+        accountRepository.save(Account.builder()
+                .name("xiaozhang")
+                .balance(new BigDecimal(0))
+                .build());
+        int[] a = new int[10];
+        a[11] = 3;
     }
 
     @Transactional
     public void transactionTest(Account account) {
-        accountService2.transactionTest(account);
-        accountService2.transactionTest2();
+        accountRepository.save(account);
     }
 }

@@ -1,6 +1,7 @@
 package com.transaction.innotest.controller;
 
 import com.transaction.innotest.InnotestApplicationTests;
+import com.transaction.innotest.controller.AccountController;
 import com.transaction.innotest.model.Account;
 import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -45,5 +46,10 @@ public class AccountControllerTest extends InnotestApplicationTests {
 
 //        Thread t = Thread.currentThread();
 //  new Thread(() -> accountController.findByName("xiaoming"));
+    }
+
+    @Test
+    public void transactionTest() {
+        accountController.transactionTest();
     }
 }

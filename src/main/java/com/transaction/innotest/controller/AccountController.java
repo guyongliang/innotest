@@ -23,18 +23,16 @@ public class AccountController {
                 .name("xiaoming")
                 .balance(new BigDecimal(0))
                 .build();
-        System.out.println(account.toString());
 //        try {
 //            Thread.sleep(10000);
 //        } catch (InterruptedException e) {
 //            System.out.println("等待10000毫秒");
 //            e.printStackTrace();
 //        }
-
+        System.out.println(account.toString());
         return accountService.add(account);
     }
 
-    @Transactional
     @GetMapping("/findOne")
     public Account findOne(Long id) {
 //        try {
@@ -60,8 +58,16 @@ public class AccountController {
 //            System.out.println("等待10000毫秒");
 //            e.printStackTrace();
 //        }
-
-
         return list;
+    }
+
+    @GetMapping("/transactionTest")
+    public String transactionTest() {
+        Account account = Account.builder()
+                .name("xiaoming")
+                .balance(new BigDecimal(0))
+                .build();
+        accountService.transactionTest(account);
+        return "success";
     }
 }

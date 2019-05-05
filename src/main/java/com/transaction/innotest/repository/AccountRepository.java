@@ -4,6 +4,7 @@ import com.transaction.innotest.model.Account;
 import org.springframework.data.jpa.repository.Lock;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.transaction.annotation.Isolation;
+import org.springframework.transaction.annotation.Propagation;
 import org.springframework.transaction.annotation.Transactional;
 
 import javax.persistence.LockModeType;
@@ -21,7 +22,7 @@ public interface AccountRepository extends CrudRepository<Account, Long> {
     @Lock(LockModeType.PESSIMISTIC_WRITE)
     Optional<Account> findById(Long id);
 
-//    @Transactional
+    @Transactional
     @Lock(LockModeType.PESSIMISTIC_WRITE)
     List<Account> findByName(String name);
 }
